@@ -1,0 +1,24 @@
+{
+  "name": "es6modules",
+  "version": "1.0.0",
+  "description": "exercise practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachSavn/es6Modules.git"
+  },
+  "author": "Zach Webb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachSavn/es6Modules/issues"
+  },
+  "homepage": "https://github.com/ZachSavn/es6Modules#readme",
+  "devDependencies": {
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
