@@ -1,7 +1,13 @@
 class book {
-    constructor(genre, author, title)
+constructor(author, genre, publisher, title){
+        this.author = author;
+        this.genre = genre;
+        this.publisher = publisher;
+        this.title = title
+    }
+   
 }
 
 function info(){
-//display book info to doc
+  
 }
