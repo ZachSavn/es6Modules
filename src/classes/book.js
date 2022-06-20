@@ -1,13 +1,16 @@
 class book {
-constructor(author, genre, publisher, title){
+constructor(author, genre,  title){
         this.author = author;
         this.genre = genre;
-        this.publisher = publisher;
+       
         this.title = title
     }
    
 }
 
 function info(){
-  
+document.getElementById("author").textContent = this.author;
+document
 }
+
+export default book;

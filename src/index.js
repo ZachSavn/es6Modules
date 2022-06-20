@@ -1,0 +1,1 @@
+import Wishlist from "./classes/Wishlist";
